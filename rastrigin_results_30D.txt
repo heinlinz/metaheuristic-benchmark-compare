@@ -1,0 +1,17 @@
+
+--- Initiating Showdown on Rastrigin ---
+Population: 50 | Iterations: 200 | Dimensions: 30
+
+Running 30 independent trials in 30D to calculate statistical significance...
+
+=== STATISTICAL ANALYSIS RESULTS ===
+Cost (Average Runtime): PSO: 0.20571s/run | GA: 0.28028s/run
+Average Accuracy Score: PSO: 56.69979263 | GA: 105.30303916
+T-Test p-value: 3.0728e-16
+Conclusion: The performance difference is statistically significant (p < 0.05). PSO holds the edge.
+
+Generating visual charts for the final run...
+Running Particle Swarm Optimization (PSO)...
+Running Genetic Algorithm (GA)...
+
+Displaying graphs. Close the windows to exit the program.
